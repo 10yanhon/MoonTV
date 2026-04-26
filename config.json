@@ -23,10 +23,6 @@
       "api":"https://api.ukuapi.com/api.php/provide/vod"
       "name": "优酷资源"
     },
-    "yilingba2": {
-      "api":"https://api.1080zyku.com/inc/apijson.php"
-      "name": "1080JSON"
-    },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
